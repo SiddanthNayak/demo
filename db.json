@@ -1,14 +1,33 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "data" = [
+    {
+      "user": 100,
+      "guest": 200
+    },
+    {
+      "name": "Week 1",
+      "user": 430,
+      "guest": 400
+    },
+    {
+      "name": "Week 2",
+      "user": 150,
+      "guest": 200
+    },
+
+    {
+      "name": "Week 3",
+      "user": 450,
+      "guest": 300
+    },
+    {
+      "name": "Week 4",
+      "user": 180,
+      "guest": 230
+    },
+    {
+      "user": 250,
+      "guest": 450
+    }
+  ];
 }
