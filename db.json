@@ -1,5 +1,5 @@
 {
-  "lineData": [
+  "line": [
     {
       "user": 100,
       "guest": 200
@@ -29,5 +29,10 @@
       "user": 250,
       "guest": 450
     }
+  ],
+"pie":  [
+    { "name": "Basic Tees", "value": 55 },
+    { "name": "Custom Short Pants", "value": 31 },
+    { "name": "Super Hoodies", "value": 14 },
   ]
 }
